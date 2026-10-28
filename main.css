@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css?family=Rakkas|Sanchez&display=swap');
 
 /*
@@ -7,42 +8,74 @@
 */
 
 body {
+
 	font-size: 16px;
+
 	font-family: 'Sanchez', serif;
+	
 }
 
 h1, h2, h3 {
+
 	font-family: 'Rakkas', cursive;
+
 }
 
 aside {
+
+	width: 30%;
+
+	float: left;
 	
 }
 
 footer {
 
+
+
 }
 
 header {
 
+	float: left;
+
+
 }
 
 img {
-	max-width: 75%;
+
+	max-width: 20%;
+
 }
 
 main {
+
+	width: 40%;
+
+	float: left;
+
 
 }
 
 nav {
 
+	width: 20%;
+
+	float: left;
+
+
 }
 
 #copyright {
+
 	font-size: 80%;
+
+	clear: both;
+
 }
 
 #main-container {
+
+	clear: both;
 
 }
