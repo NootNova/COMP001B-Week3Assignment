@@ -29,6 +29,10 @@ aside {
 
 	box-sizing: border-box;
 
+	padding: 14px;
+
+	border: 4px;
+
 	margin: 1rem;
 	
 }
@@ -48,7 +52,7 @@ header {
 
 img {
 
-	max-width: 60%
+	max-width: 70%
 
 }
 
@@ -62,7 +66,7 @@ main {
 
 	padding: 10px;
 
-	border: 2px;
+	border: 4px;
 
 	margin: 1rem;
 
